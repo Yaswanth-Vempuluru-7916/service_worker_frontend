@@ -37,3 +37,7 @@ self.addEventListener('activate', (event) => {
     })()
   );
 });
+//tab closes working
+//closed at 28th notification 
+//browser closed
+//till 39th notifiction
